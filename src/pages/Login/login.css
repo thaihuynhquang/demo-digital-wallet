@@ -1,0 +1,4 @@
+.ronin-background {
+  background-image: url(/src/ronin_backgroud.svg);
+  min-height: calc(100vh / 2);
+}
